@@ -24,11 +24,11 @@ Open [http://localhost:19006](http://localhost:19006) to view it in your browser
 
 ## Previews
 
-First load
+First load\
 ![first load](previews/first_load.png)
 
-Search result
+Search result\
 ![search](previews/search.png)
 
-Handle API
+Handle API\
 ![handle api](previews/handle_api.png)
